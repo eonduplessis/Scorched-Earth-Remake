@@ -1,8 +1,1 @@
-C:\Users\workstation5\Scorched-Earth-Remake\Scorched Earth Remake\Scorched Earth Remake\bin\Debug\Scorched Earth Remake.exe
-C:\Users\workstation5\Scorched-Earth-Remake\Scorched Earth Remake\Scorched Earth Remake\bin\Debug\Scorched Earth Remake.pdb
 C:\Users\workstation5\Scorched-Earth-Remake\Scorched Earth Remake\Scorched Earth Remake\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\workstation5\Scorched-Earth-Remake\Scorched Earth Remake\Scorched Earth Remake\obj\x86\Debug\Scorched_Earth_Remake.Properties.Resources.resources
-C:\Users\workstation5\Scorched-Earth-Remake\Scorched Earth Remake\Scorched Earth Remake\obj\x86\Debug\GenerateResource.read.1.tlog
-C:\Users\workstation5\Scorched-Earth-Remake\Scorched Earth Remake\Scorched Earth Remake\obj\x86\Debug\GenerateResource.write.1.tlog
-C:\Users\workstation5\Scorched-Earth-Remake\Scorched Earth Remake\Scorched Earth Remake\obj\x86\Debug\Scorched Earth Remake.exe
-C:\Users\workstation5\Scorched-Earth-Remake\Scorched Earth Remake\Scorched Earth Remake\obj\x86\Debug\Scorched Earth Remake.pdb
